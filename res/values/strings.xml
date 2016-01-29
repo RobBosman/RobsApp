@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rob\'s app</string>
+    <string name="intro">Deze app doet helemaal niets.\nMaar dat doet-ie wel extreem robuust, snel, betrouwbaar, backward-compatible, veilig, zuinig en duurzaam!</string>
+    <string name="opengles_menu">OpenGLES plane</string>
+    <string name="opengles_data">OpenGLES data</string>
+    <string name="exit">Einde</string>
+</resources>
